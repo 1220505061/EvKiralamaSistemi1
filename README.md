@@ -1,4 +1,5 @@
-Gayrimenkul Yönetim Sistemi
+Gayrimenkul Yönetim Sistemi:
+
 Bu Java programı, kullanıcılara ev sahipleri, kiracılar ve farklı türde konut birimleri oluşturma imkanı tanıyan basit bir gayrimenkul yönetim sistemini simüle eder. Sistem, gerçek bir emlak senaryosundaki varlıklar arasındaki ilişkileri modellemek için sınıf miras dahil olmak üzere nesne tabanlı prensipleri kullanır.
 
 1. EvSahibi Sınıfı:
